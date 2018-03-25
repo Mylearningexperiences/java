@@ -2,7 +2,7 @@
 <body>
 <h1>Maven + Spring MVC Web</h1>
  
-<h2 style='color:blue'> Demo project Online</h2>
+<h2 style='color:Red'> Demo project Online</h2>
 
 <h2>  jenkins demo for deployments </h2>
 
